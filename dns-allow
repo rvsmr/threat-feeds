@@ -1,0 +1,15 @@
+# Used by Humly among others
+*.cloudns.net*
+#for www.colt.net
+*wp1313.host.pressdns.com*
+# Used by ImIT for tenders Fixit:167797
+*censinet.com*
+# Used by communities.vmware.com uses this for hosting... Fixit:169395
+*.lithium.com*
+# Used by communities.vmware.com uses this for hosting... Fixit:169395
+*.cloudfront.net*
+# Fixit : 174607 -  New domain for Education Should be ok in July.
+*epsectra-dev.com*
+# Martin Lindvall special
+*pizza-empire.online*
+*.pizza-empire.online*
