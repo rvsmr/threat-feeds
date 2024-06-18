@@ -1,2 +1,1 @@
-# blockpoc
-Fortigate blacklist
+Blacklist
